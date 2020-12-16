@@ -1,2 +1,0 @@
-# FirstSite
-My FirstGitHub repository 
